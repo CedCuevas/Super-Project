@@ -1,0 +1,6 @@
+[submodule "xib-submodule1"]
+	path = xib-submodule1
+	url = git@github.com:CedCuevas/xib-files.git
+[submodule "images-submodule2"]
+	path = images-submodule2
+	url = git@github.com:CedCuevas/images.git
